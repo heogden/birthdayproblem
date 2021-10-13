@@ -1,5 +1,5 @@
 Package: birthdayproblem
-Title: What the Package Does (One Line, Title Case)
+Title: Calculate Probabilities for Birthday Problems
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Helen",
@@ -7,7 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "heogden12@gmail.com",
            comment = c(ORCID = "0000-0001-7204-9776"))
-Description: What the package does (one paragraph).
+Description: Calculate (or approximate by simulation) probabilities
+  of people in a group sharing the same birthday.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
